@@ -1,5 +1,7 @@
 # Le mie attività — Todo List in Flutter
 
+> Repository pubblica: <https://github.com/Dadox01/todo-list-flutter>
+
 App Flutter (Material 3) per gestire una lista di attività. Esercitazione sui
 concetti di base: composizione dei widget, gestione dello stato, input utente e
 navigazione tra schermate.
